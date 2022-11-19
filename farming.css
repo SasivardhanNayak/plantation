@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+    color: white;
+}
 .head {
     font-size: 80px;
     margin: 5% auto;
@@ -63,7 +67,7 @@ h3 {
     overflow: hidden;
     transition: all 500ms ease-in-out;
 }
-.active, .heading:hover {
+.active {
     letter-spacing: 10px;
     font-size: 100px;
     font-weight: 700;

@@ -9,6 +9,7 @@ body {
 }
 section {
     margin: 1% 10% 2% 10%;
+    color: white;
 }
 .one {
     margin-top: 100px;
@@ -43,9 +44,6 @@ section {
     justify-content: center;
     align-items: center;
     box-shadow: none;
-    background-image: url("images/bg-7.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
     border-radius: 5px;
 }
 .heading {

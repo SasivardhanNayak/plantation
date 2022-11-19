@@ -20,8 +20,8 @@ header {
     justify-content: space-between;
     height: 60px;
     align-items: center;
-    background-color: darkblue;
-    border-bottom: 1px solid white;
+    background-color: white;
+    border-bottom: 1px solid black;
     position: fixed;
     top: 0;
     width: 100%;
@@ -39,7 +39,7 @@ header div {
 }
 .home {
     text-decoration: none;
-    color: white;
+    color: black;
     margin-right: auto;
     font-weight: 700;
     transition: 500ms;

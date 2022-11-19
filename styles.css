@@ -20,7 +20,7 @@ header {
     justify-content: space-between;
     height: 60px;
     align-items: center;
-    background-color: black;
+    background-color: darkblue;
     border-bottom: 1px solid white;
     position: fixed;
     top: 0;
@@ -50,10 +50,6 @@ header div {
     font-weight: 700;
     transition: 300ms;
 }
-.nav_link:hover {
-    transform: scale(1.15);
-    transition: 300ms ease-in-out;
-}
 .section1 {
     display: flex;
     justify-content: center;
@@ -62,9 +58,6 @@ header div {
     margin-top: 60px;
     padding: 5%;
     color: #0a1520;
-    background-image: url("images/bg-1.jpg");
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
 }
 .div1 {
     padding: 0 5%;

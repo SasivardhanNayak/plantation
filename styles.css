@@ -53,9 +53,7 @@ header div {
 .image {
     max-width:900px;
     max-height:900px;
-    background-image:url("vzm.jpg");
-    background-repeat:no-repeat;
-    background-size: cover;
+    
 }
 .section1 {
     display: flex;

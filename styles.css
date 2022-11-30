@@ -50,10 +50,9 @@ header div {
     font-weight: 700;
     transition: 300ms;
 }
-.image {
-    max-width:900px;
-    max-height:900px;
-    
+.image img {
+    width:100%;
+    padding:10px;
 }
 .section1 {
     display: flex;

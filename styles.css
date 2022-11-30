@@ -239,9 +239,9 @@ img {
             background-size: cover;
             bottom: 5%;
         }
-    .image {
-        display:none;
-    }
+        .image {
+            display:none;
+        }
         .div1 {
             padding: 0 5%;
         }
